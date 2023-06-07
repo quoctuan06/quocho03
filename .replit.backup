@@ -1,0 +1,3 @@
+language = "bash"
+run = "npm start" 
+run = "npx nodemon -x 'node uptime.js || touch uptime.js' " 
